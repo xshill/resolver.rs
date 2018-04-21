@@ -1,0 +1,9 @@
+[package]
+name = "resolver"
+version = "0.1.0"
+authors = ["Francis Labelle <francis.labelle22@gmail.com>"]
+license = "MIT"
+
+[dependencies]
+clap = "2.31"
+rayon = "1.0"
